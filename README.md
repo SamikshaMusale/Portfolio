@@ -59,4 +59,4 @@ This portfolio is ideal for:
 
 Feel free to explore my live portfolio and discover my work.
 
-🌐 **Live Portfolio:** 
+🌐 **Live Portfolio:** https://samikshamusaleportfolio.vercel.app/
