@@ -33,8 +33,8 @@ const technicalProjects = [
     description: "Showcasing creativity, code, and clean design—all in one place.",
     image: "https://images.unsplash.com/photo-1695634621375-0b66a9d5d1bc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     tech: ["React", "Tailwind CSS", "Vite", "GSAP", "TypeScript", "Framer Motion", "Three.js", "Emailjs"],
-    github: "#",
-    live: "https://dumbcharades.netlify.app/",
+    github: "https://github.com/SamikshaMusale/Portfolio",
+    live: "https://samikshamusaleportfolio.vercel.app/",
   },
   {
     title: "Plantitude — Your Plant Care Assistant",
