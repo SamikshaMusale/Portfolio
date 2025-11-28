@@ -8,7 +8,7 @@ const figmaProjects = [
   {
     title: "ABUN – SEO & Growth Marketing Toolkit",
     description: "A compact dashboard combining analytics, keyword tools, and marketing insights.",
-    image: "https://images.unsplash.com/photo-1557838923-2985c318be48?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    image: "https://www.figma.com/proto/u3dCHh7EbAUmR1uSUkzm7X/ABUN?node-id=11-180&t=Odh6347ONo4xoYQS-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
     link: "https://www.figma.com/proto/u3dCHh7EbAUmR1uSUkzm7X/ABUN?node-id=11-180&t=Odh6347ONo4xoYQS-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
   },
   {
