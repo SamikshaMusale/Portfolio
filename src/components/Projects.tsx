@@ -49,8 +49,8 @@ const technicalProjects = [
     description: "A smooth movie discovery experience powered by live API data.",
     image: "https://plus.unsplash.com/premium_photo-1710409625244-e9ed7e98f67b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     tech: ["HTML", "Tailwind CSS", "Vite", "JavaScript", "API Integration"],
-    github: "#",
-    live: "#",
+    github: "https://github.com/SamikshaMusale/MovieFinder",
+    live: "https://moviefinder-beta.vercel.app/",
   },
   {
     title: "Dumb Charades",
