@@ -124,9 +124,9 @@ const Skills = () => {
                             >
                               <div className="bg-background/50 backdrop-blur-sm border border-border rounded-full px-3 sm:px-4 py-2 sm:py-2.5 flex items-center gap-2 hover:border-primary/50 transition-all duration-300 hover:shadow-[0_0_10px_rgba(0,217,255,0.3)] cursor-pointer">
                                 <div className="w-4 h-4 sm:w-5 sm:h-5 rounded-full bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors shrink-0">
-                                  <Icon className="w-2.5 h-2.5 sm:w-4 sm:h-4 text-primary" />
+                                  <Icon className="w-3 h-3 sm:w-4 sm:h-4 text-primary" />
                                 </div>
-                                <span className="text-xs sm:text-lg font-medium font-poppins text-foreground/90 hover:text-primary transition-colors truncate">
+                                <span className="text-sm sm:text-lg font-medium font-poppins text-foreground/90 hover:text-primary transition-colors truncate">
                                   {skill.name}
                                 </span>
                               </div>
