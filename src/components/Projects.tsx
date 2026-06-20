@@ -21,6 +21,14 @@ const figmaProjects = [
 
 const technicalProjects = [
   {
+    title: "AirLink — Decentralized WiFi Sharing Platform",
+    description: "Enables secure WiFi sharing and access through blockchain-powered authentication, payments, and access control.",
+    image: "https://plus.unsplash.com/premium_photo-1683758343999-0975ec01d0cc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    tech: ["React", "TypeScript", "Node.js", "Ethereum", "MongoDB", "Solidity", "Hardhat", "Metamask"],
+    github: "https://github.com/yashurade27/deWifi",
+    live: "#",
+  },
+  {
     title: "EcoLens — Climate & Forest Insight Analyzer",
     description: "Visualizes forest loss, climate trends, and environmental correlations for any location.",
     image: "https://images.unsplash.com/photo-1425913397330-cf8af2ff40a1?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -40,7 +48,7 @@ const technicalProjects = [
     title: "Plantitude — Your Plant Care Assistant",
     description: "A smart plant management website with search, care tips, and chatbot support.",
     image: "https://images.unsplash.com/photo-1673853233774-34a726cfc335?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    tech: ["HTML", "Tailwind CSS", "Vite", "JavaScript", "API Integration", "Firebase"],
+    tech: ["HTML", "Tailwind CSS", "Vite", "JavaScript", "API Integration", "Firebase", "Chatbot"],
     github: "https://github.com/SamikshaMusale/Plantidude",
     live: "https://plantitude.vercel.app/",
   },
@@ -59,14 +67,6 @@ const technicalProjects = [
     tech: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/SamikshaMusale/DumbCharades",
     live: "https://dumbcharades.netlify.app/",
-  },
-  {
-    title: "Tic Tac Toe",
-    description: "A classic strategy game with a clean, modern interface.",
-    image: "https://images.unsplash.com/photo-1692514355472-85d1a498e505?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    tech: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/SamikshaMusale/TicTacToe",
-    live: "https://spb-tic-tac-toe.netlify.app/",
   },
 ];
 

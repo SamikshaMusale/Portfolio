@@ -18,6 +18,8 @@ import {
   SiTailwindcss,
   SiGreensock,
   SiFirebase,
+  SiMongodb, 
+  SiMysql,
   SiC,
   SiCplusplus,
   SiPython,
@@ -47,6 +49,8 @@ const skillCategories = [
     skills: [
       { name: "Firebase", icon: SiFirebase },
       { name: "Supabase", icon: Zap },
+      { name: "MySQL", icon: SiMysql },
+      { name: "MongoDB", icon: SiMongodb },
     ],
   },
   {
